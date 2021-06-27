@@ -1,0 +1,5 @@
+FROM minio/minio 
+
+ENV MINIO_ROOT_USER=user
+ENV MINIO_ROOT_PASSWORD=secret
+EXPOSE 9000

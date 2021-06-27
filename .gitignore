@@ -1,0 +1,6 @@
+data
+localstack
+IAC/.terraform
+IAC/*.hcl
+IAC/*.info
+IAC/*.tfstate
